@@ -8,7 +8,7 @@ function getip() {
 
 
 // отправляет данные в google sheet
-export function saveToGoogle(obj, fname) {
+function saveToGoogle(obj, fname) {
 
    // ?action=myFunction
    // Если вы не указываете параметр “action” в ссылке, то будет вызвана функция “doGet” или “doPost” -- какой тип запроса был отправлен.

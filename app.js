@@ -16,7 +16,7 @@ function saveToGoogle(obj, fname) {
    // var param1 = e.parameter.param1;
 
    var url =
-      'https://script.google.com/macros/s/AKfycby9rfr6MEyB2x9bsKYN7qfefnBE4agMlPXFOH5rprQJ1soD68lJcfHcFHOj49H6jwS0_g/exec';
+      'https://script.google.com/macros/s/AKfycbwIEpU3T4a-viBWyH2RC3ywIqJ2V2xkUaUUYt9khATwbHEewj3EUndT6qY9JylxcLkykA/exec';
    if (fname) {
       url += "?action=" + fname;
    }
@@ -58,6 +58,7 @@ if (!window.location.host.startsWith('127.0.0.1')) {
          text: ip,
          href: window.location.href,
          agent: navigator.userAgent,
+         ref: document.referrer
       })
          .then(console.log)
          .catch(console.log);

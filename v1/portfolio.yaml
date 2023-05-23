@@ -1,0 +1,11 @@
+Portfolio:
+  Портреты:
+    en: "Portraits"
+    ge: "პორტრეტები"
+    pics: "/portraits"
+
+  Семейные:
+    en: "Family"
+
+  Пейзажи:
+    en: "Landscapes"

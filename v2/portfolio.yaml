@@ -1,0 +1,25 @@
+Portfolio:
+
+  Портреты:
+    en: "Portraits"
+    ge: "პორტრეტები"
+    pics:
+      - "v2/portraits/IMG_0461-min.jpg"
+      - "v2/portraits/IMG_2721-min.jpg"
+
+  Семейные:
+    en: "Family"
+    path: "/families"
+
+  Пейзажи:
+    en: "Landscapes"
+    path: "/lands"
+
+  Свадьбы:
+    en: "Wedding"
+    path: "/weddings"
+
+Networks:
+  facebook: "https://www.facebook.com/kariphoto1"
+  instagram: "https://instagram.com/kariphoto.art"
+  tiktok: "https://www.tiktok.com/@kariphotography"

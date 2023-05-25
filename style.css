@@ -3,7 +3,7 @@ html, body {
    margin: 0;
    background-color: black;
    color: white;
-   background-image: url(hpbg.jpeg);
+   background-image: url(/v2/hpbg.jpeg);
    background-repeat: no-repeat;
    background-position: 50%;
 }

@@ -4,8 +4,8 @@ Portfolio:
     en: "Portraits"
     ge: "პორტრეტები"
     pics:
-      - "portraits/IMG_0461-min.jpg"
-      - "portraits/IMG_2721-min.jpg"
+      - "/portraits/IMG_0461-min.jpg"
+      - "/portraits/IMG_2721-min.jpg"
 
   Семейные:
     en: "Family"
